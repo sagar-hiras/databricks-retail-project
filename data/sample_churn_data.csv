@@ -1,0 +1,6 @@
+customer_id,age,tenure_months,monthly_charges,total_charges,contract_type,internet_service,churn
+1,32,24,65.50,1572.00,month-to-month,fiber,0
+2,45,12,89.25,1071.00,one_year,dsl,0
+3,28,6,55.00,330.00,month-to-month,fiber,1
+4,55,36,99.00,3564.00,two_year,dsl,0
+5,38,18,75.25,1354.50,one_year,fiber,1
